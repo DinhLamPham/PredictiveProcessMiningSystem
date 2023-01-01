@@ -16,7 +16,8 @@ Images:
 - System architecture:
 ![alt text](Images/Architecture.png)
 - System UI:
-![alt text](Images/UI screens.png)
+![alt text](Images/UI%20screens.png)
+
 ![alt text](Images/Logs%20management.png)
 - Trained models: See 'TrainandPrediction/TrainedModel'
 - Prediction results:
